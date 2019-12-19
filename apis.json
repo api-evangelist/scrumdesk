@@ -1,0 +1,66 @@
+{
+    "name": "ScrumDesk",
+    "description": "From ideas to successful product developed with #Scrum and managed in ScrumDesk Start!    Use advantage of simplicity of user story maps, agile roadmaps, Kanban task board and agile reports.    All Scrum artifacts, roles and ceremonies wrapped into int...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/921-scrumdesk.jpg",
+    "tags": [
+        "agile",
+        "have api",
+        "projects",
+        "scrum"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/scrumdesk\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ScrumDesk",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/921-scrumdesk.jpg",
+            "humanURL": "http:\/\/www.scrumdesk.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scrumdesk-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scrumdesk-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.scrumdesk.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.scrumdesk.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.scrumdesk.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/scrumdesk"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/scrumdesk"
+        },
+        {
+            "type": "Email",
+            "url": "sales@scrumdesk.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/scrumdesk"
+        }
+    ]
+}
